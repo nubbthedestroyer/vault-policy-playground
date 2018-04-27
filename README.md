@@ -34,5 +34,5 @@ terraform apply
 test and play around with the policies
 ```bash
 vault token create -policy=devs_policy_full_example
-vault kv get 
+vault kv get devplayground/footest
 ```
