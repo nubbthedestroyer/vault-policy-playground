@@ -36,3 +36,7 @@ test and play around with the policies
 vault token create -policy=devs_policy_full_example
 vault kv get devplayground/footest
 ```
+
+#### Experimentation
+
+The sections in main.tf labeled "vault_policy" can be commented out and the associated policy files can be duplicated or changed to experiment with a few configurations.  Go ahead and try it out.
