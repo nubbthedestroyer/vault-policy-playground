@@ -1,0 +1,4 @@
+venv
+vault.log
+terraform.*
+.terraform
