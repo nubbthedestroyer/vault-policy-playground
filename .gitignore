@@ -2,3 +2,4 @@ venv
 vault.log
 terraform.*
 .terraform
+.idea
